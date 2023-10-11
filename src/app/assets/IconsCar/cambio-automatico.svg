@@ -1,0 +1,21 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1152_35)">
+<mask id="mask0_1152_35" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="40" height="40">
+<path d="M40 0H0V40H40V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1152_35)">
+<path d="M15.2981 27.6667C17.1391 27.6667 18.6315 26.1743 18.6315 24.3333C18.6315 22.4924 17.1391 21 15.2981 21C13.4572 21 11.9648 22.4924 11.9648 24.3333C11.9648 26.1743 13.4572 27.6667 15.2981 27.6667Z" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.3086 6.99951V20.9995" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.9902 6.97998H27.9755" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.9902 33.0205H27.9755" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.9902 15.6592H27.9755" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.3086 28.0005V33.0005" stroke="black" stroke-width="2.51138" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.4002 28.4V26.66H26.6002C26.9136 26.66 27.1936 26.6167 27.4402 26.53C27.6936 26.4367 27.9069 26.3067 28.0802 26.14C28.2536 25.9667 28.3869 25.76 28.4802 25.52C28.5736 25.2733 28.6202 24.9967 28.6202 24.69C28.6202 24.37 28.5736 24.09 28.4802 23.85C28.3869 23.6033 28.2536 23.4 28.0802 23.24C27.9069 23.0733 27.6936 22.95 27.4402 22.87C27.1936 22.7833 26.9136 22.74 26.6002 22.74H25.4002V21H26.5202C27.1802 21 27.7569 21.0933 28.2502 21.28C28.7502 21.4667 29.1669 21.7267 29.5002 22.06C29.8336 22.3867 30.0836 22.7667 30.2502 23.2C30.4169 23.6333 30.5002 24.0933 30.5002 24.58V24.8C30.5002 25.2467 30.4169 25.6867 30.2502 26.12C30.0836 26.5467 29.8336 26.9333 29.5002 27.28C29.1669 27.62 28.7502 27.8933 28.2502 28.1C27.7569 28.3 27.1802 28.4 26.5202 28.4H25.4002ZM23.7402 28.4V21H25.6002V28.4H23.7402Z" fill="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1152_35">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>

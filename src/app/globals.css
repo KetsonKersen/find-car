@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html,body{
+    @apply bg-zinc-100
+}
+.BTN_Menu_Active{
+    @apply text-orange-500
+}
+.bg-Hero{
+    background-image: url(../app/assets/BannerHome.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.BTN_Filters{
+    @apply border-2 border-zinc-500 opacity-50 py-2 px-3 flex items-center justify-between gap-3 rounded-full cursor-pointer
+}
+.BTN_Filters_Active{
+    @apply bg-orange-500 text-zinc-50 border-orange-500 opacity-100
+}
+.BTN_Filters_Active > img{
+    filter: brightness(200);
+}
+.activeImput{
+    @apply border border-orange-500 bg-orange-100
+}
+.Card-Filter{
+    @apply w-fit bg-zinc-50 grid grid-flow-row text-center gap-4 items-center justify-center p-4 rounded-lg z-30;
+}
+.content-category img{
+    width: 60%;
+    height: 60%;
+    filter: opacity(70%);
+}
+.content-brand p{
+    display: none;
+}
+.content-cambio img{
+    width: fit-content;
+    height: fit-content;
+    filter: opacity(70%);
+}
+.content-cambio label{
+    padding: 8px 0;
+}
+.activeMark{
+    @apply bg-orange-500 border-2 border-zinc-50 scale-110 duration-200
+}
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #ff730f #f4f4f5;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--Base);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #ff730f;
+    border-radius: 10px;
+    border: 5px solid #f4f4f5;
+  }
+.modalCar::-webkit-scrollbar {
+    display:none;
+}
+  
+
+.horizontal-slider{
+    width: 15rem;
+    height: .3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #cbd5e1;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+.thumb{
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: #f97316;
+    border-radius: 50%;
+    position: relative;
+    outline: none;
+    cursor: pointer;
+}
+.thumb span{
+    width: fit-content;
+    padding: .5rem;
+    background-color: #616161;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -4rem;
+    left: 50%;
+    transform: translate(-50% , 0);
+    position: relative;
+    color: white;
+    border-radius: .5rem;
+    border: 3px solid white;
+
+}
+.thumb span:before{
+    content: '';
+    width: .8rem;
+    height: .8rem;
+    background-color: #616161;
+    position: absolute;
+    bottom: -.6rem;
+    left: 50%;
+    transform: rotate(45deg) translate(-50% , 0);
+}
+.track-1{
+    height: .5rem;
+    background-color: #f97316;
+    cursor: pointer;
+}
+.contentSlider{
+    padding: 3rem 0rem;
+}
+.loadingCard{
+    background: rgb(156,156,156);
+    background: linear-gradient(0deg, rgba(156,156,156,1) 0%, rgba(232,232,232,1) 100%);    
+}

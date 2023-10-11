@@ -1,0 +1,51 @@
+/* =========== HEADER ===========*/
+.md-Header{
+    @apply md:grid-flow-col md:translate-x-0 md:translate-y-0 md:static md:p-0 md:w-fit md:z-10
+}
+
+/* =========== HERO ===========*/
+.md-Hero{
+    @apply md:w-full md:flex-row
+}
+.md-Hero-Title{
+    @apply md:text-4xl font-extrabold
+}
+.md-Hero-SubTitle{
+    @apply md:text-2xl md:max-w-md
+}
+.md-Hero-Image{
+    @apply md:p-0
+}
+
+.lg-Hero-Title{
+    @apply lg:text-7xl
+}
+.lg-Hero-Sub-Title{
+    @apply lg:text-5xl lg:max-w-xl
+}
+
+/* =========== HERO CARDS ===========*/
+.lg-CardsHero{
+    @apply lg:w-full lg:h-fit lg:max-w-6xl lg:-mt-36 lg:grid-cols-3 lg:gap-4 lg:mx-auto xl:px-0
+}
+
+/* =========== FILTER DESKTOP ===========*/
+
+.lg-Filter-Mobile{
+    @apply lg:hidden
+}
+.lg-Filter-Desktop{
+    @apply lg:w-full lg:flex lg:flex-row lg:items-center lg:justify-between 
+}
+.lg-Filter-Desktop-ul{
+    @apply lg:h-fit lg:flex lg:flex-row lg:items-center lg:gap-2 lg:p-0 lg:overflow-visible lg:mr-2
+}
+.lg-Filter-Desktop-BtnClear{
+    @apply lg:p-0 lg:border-none
+}
+
+/* =========== FILTER CAR ===========*/
+
+.lg-Card-Filter{
+    @apply lg:shadow-lg lg:shadow-zinc-950/10 lg:absolute lg:top-16 lg:left-0;
+}
