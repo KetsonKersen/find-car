@@ -6,10 +6,11 @@ Projeto desenvolvido para praticar meus conhecimentos.
 FindCar é um site desenvolvido para uma possível concessionaria, onde o usuário tem uma vasta opção de filtragem para encontrar o veículo que atenda a suas expectativas.
 
 O projeto foi desenvolvido em Next.js, Typescript e Tailwind.
+
 Bibliotecas utilizadas no projeto:
-framer-motion
-react-slider
-react-icons
+- framer-motion
+- react-slider
+- react-icons
 
 ***Obs.: Algumas referências e veículos utilizados como demonstração, vieram do site da localiza seminovos.***
 
