@@ -5,10 +5,10 @@
 FindCar é um site para concessionaria de veiculos desenvolvido em Next.js e TypeScript, que oferece uma vasta opção de filtragem para encontrar o veículo que atenda a suas expectativas.
 
 ## 🌌 Funcionalidades
-- Catálogo: Uma bela apresentação inicial de todos os veiculos disponiveis.
-- Carrossel de imagens: Apresentação mais detalhada, oferecendo todas as informaçoes importantes para o usuario. 
-- Filtros: Encontre o carro ideal atraves dos filtros de alta precisão, podendo ainda ordernar a lista de acordo com a sua preferencia.
-- Mapa: Veja a localização da loja fisica atraves do mapa implementado no site;
+- Catálogo: Uma bela apresentação inicial de todos os veículos disponíveis.
+- Carrossel de imagens: Apresentação mais detalhada, oferecendo todas as informações importantes para o usuário. 
+- Filtros: Encontre o carro ideal através dos filtros de alta precisão, podendo ainda ordenar a lista conforme a sua preferência.
+- Mapa: Veja a localização da loja física através do mapa implementado no site.
 
 ## 🔧 Tecnologias Utilizadas
 - Frontend: Next.js e TypeScript
