@@ -1,18 +1,19 @@
-# FindCar
-
+# ✨ FindCar
 ![Capturar](https://github.com/KetsonKersen/find-car/assets/127996989/8959c453-d5e4-40a8-ae15-581d5948326c)
 
-Projeto desenvolvido para praticar meus conhecimentos.
-FindCar é um site desenvolvido para uma possível concessionaria, onde o usuário tem uma vasta opção de filtragem para encontrar o veículo que atenda a suas expectativas.
+## 📜 Descrição
+FindCar é um site para concessionaria de veiculos desenvolvido em Next.js e TypeScript, que oferece uma vasta opção de filtragem para encontrar o veículo que atenda a suas expectativas.
 
-O projeto foi desenvolvido em Next.js, Typescript e Tailwind.
+## 🌌 Funcionalidades
+- Catálogo: Uma bela apresentação inicial de todos os veiculos disponiveis.
+- Carrossel de imagens: Apresentação mais detalhada, oferecendo todas as informaçoes importantes para o usuario. 
+- Filtros: Encontre o carro ideal atraves dos filtros de alta precisão, podendo ainda ordernar a lista de acordo com a sua preferencia.
+- Mapa: Veja a localização da loja fisica atraves do mapa implementado no site;
 
-Bibliotecas utilizadas no projeto:
-- framer-motion
-- react-slider
-- react-icons
+## 🔧 Tecnologias Utilizadas
+- Frontend: Next.js e TypeScript
+- Animações: framer-motion
+- Mapa: Google Maps
 
-***Obs.: Algumas referências e veículos utilizados como demonstração, vieram do site da localiza seminovos.***
-
-Acesse:
-https://findcar-nu.vercel.app/
+## 🔗 Links
+https://fiance-app-sable.vercel.app/
