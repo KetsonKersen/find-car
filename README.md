@@ -12,6 +12,7 @@ FindCar é um site para concessionaria de veiculos desenvolvido em Next.js e Typ
 
 ## 🔧 Tecnologias Utilizadas
 - Frontend: Next.js e TypeScript
+- Estilo: TailwindCSS
 - Animações: framer-motion
 - Mapa: Google Maps
 
